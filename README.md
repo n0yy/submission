@@ -31,6 +31,5 @@ pip install -r requirements.txt
 ## Jalankan App
 
 ```bash
-cd dashboard
-streamlit run dashboard.py
+streamlit run .\dashboard\dashboard.py
 ```
