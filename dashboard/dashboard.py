@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.figure_factory as ff
 
 
-df = pd.read_csv("./all_data.csv")
+df = pd.read_csv("./dashboard/all_data.csv")
 
 st.title("Dashboard Air Quality Index")
 st.write("### Data from 2013-2017")
