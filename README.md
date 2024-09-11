@@ -10,7 +10,7 @@ conda activate venv-ds
 pip install -r requirements.txt
 ```
 
-## Setup di Python
+## Setup di Environment Python
 
 Jika menggunakan Windows:
 
